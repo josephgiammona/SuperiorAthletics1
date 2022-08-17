@@ -1,0 +1,21 @@
+
+html {
+    scroll-behavior: smooth;
+    background-color: rgba(0, 0, 0, 0.422);
+    border: hsl(120, 100, 49) 4px solid;
+}
+
+nav {
+    display: inline-flex;
+    position: fixed;
+    background-color: hsl(120, 100, 49);
+    height: auto;
+    width: 100%;
+    z-index: 999;
+    margin: auot;
+}
+
+nav .imageContainer {
+    width: 4rem;
+    height: auto;
+}
